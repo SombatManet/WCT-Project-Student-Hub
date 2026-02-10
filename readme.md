@@ -19,7 +19,7 @@ Backend
 
 📁 Project Structure
 
-OOAD-PROJECT/ ├── backend/ # Backend server code │ ├── controllers/ # Route controllers │ ├── models/ # MongoDB models │ ├── routes/ # API routes │ ├── middleware/ # Custom middleware │ ├── config/ # Database and app configuration │ ├── utils/ # Utility functions │ └── server.js # Entry point └── student-hub/ # Frontend React application ├── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Page components │ ├── context/ # React context providers │ ├── hooks/ # Custom React hooks │ ├── services/ # API service functions │ └── utils/ # Utility functions └── package.json
+WCT-PROJECT/ ├── backend/ # Backend server code │ ├── controllers/ # Route controllers │ ├── models/ # MongoDB models │ ├── routes/ # API routes │ ├── middleware/ # Custom middleware │ ├── config/ # Database and app configuration │ ├── utils/ # Utility functions │ └── server.js # Entry point └── student-hub/ # Frontend React application ├── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Page components │ ├── context/ # React context providers │ ├── hooks/ # Custom React hooks │ ├── services/ # API service functions │ └── utils/ # Utility functions └── package.json
 👥 User Roles & Features
 👨‍🎓 Student
 
